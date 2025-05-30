@@ -1,6 +1,7 @@
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)]
 <h1 align="center">Hi 👋, Software Engineer here.</h1>
-
+<br>
+<br>
 Seasoned software engineer with deep expertise in full-stack development, system architecture, and team leadership. Proficient in a wide range of modern front-end and back-end technologies, including React, Angular, Vue.js, Next.js, Redux, JavaScript, TypeScript, Python, Django, .NET, Flask, Node.js, PHP, and Laravel. Experienced in working with databases such as MongoDB, PostgreSQL, and MySQL.
 <br>
 <br>
@@ -10,7 +11,9 @@ Strong background in building and maintaining CI/CD pipelines, leveraging cloud 
 <br>
 <br>
 Driven by a passion for clean code, innovation, and mentoring fellow developers to achieve engineering excellence and long-term growth.
+<br>
 
+<br>
 <h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
 <p align="center">
 <table align="center">
