@@ -1,12 +1,11 @@
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)]
-<h1 align="center">Hi 👋, Senior Software Engineer here.</h1>
+<h1 align="center">Hi 👋, Software Engineer here.</h1>
 
-I'm a software engineer with a fire in my belly and a knack for getting things done. I lead the charge in crafting amazing user experiences from the ground up. 
+Seasoned software engineer with deep expertise in full-stack development, system architecture, and team leadership. Proficient in a wide range of modern front-end and back-end technologies, including React, Angular, Vue.js, Next.js, Redux, JavaScript, TypeScript, Python, Django, .NET, Flask, Node.js, PHP, and Laravel. Experienced in working with databases such as MongoDB, PostgreSQL, and MySQL.
 <br>
-Give me a problem, and I'll throw my whole toolbox at it – I'm fluent in both frontend and backend development. 
-This lets me build web apps that are not only stunning to look at but also run like a dream and put users first.
+Strong background in building and maintaining CI/CD pipelines, leveraging cloud platforms like AWS and Azure, and designing serverless solutions using Lambda and S3. Demonstrated success in modernizing legacy systems, enhancing application performance, and managing cross-functional teams to deliver scalable, high-quality software products.
 <br>
-New challenges keep me energized, and I'm always ready to tackle them head-on.
+Driven by a passion for clean code, innovation, and mentoring fellow developers to achieve engineering excellence and long-term growth.
 
 <h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
 <p align="center">
