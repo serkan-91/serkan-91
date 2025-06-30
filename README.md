@@ -54,12 +54,12 @@ Driven by a passion for clean code, innovation, and mentoring fellow developers 
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
       <br>Node.js
     </td>
+  </tr>  
+  <tr> 
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
     </td> 
-  </tr>  
-  <tr> 
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next" />
       <br>Next.js
