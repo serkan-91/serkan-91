@@ -87,12 +87,13 @@ Driven by a passion for clean code, innovation, and mentoring fellow developers 
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
       <br>Bootstrap
-    </td>
-
-  </tr>    <td align="center" width="90">
+    </td>  
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=babel" width="45" height="45" alt="babel" />
       <br>Babel
     </td> 
+
+  </tr> 
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
       <br>MySQL
