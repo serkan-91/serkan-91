@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, Software Engineer here.</h1>
 <br>
 <br>
-Seasoned software engineer with deep expertise in full-stack development, system architecture, and team leadership. Proficient in a wide range of modern front-end and back-end technologies, including React, Angular, Vue.js, Next.js, Redux, JavaScript, TypeScript, Python, Django, .NET, Flask, Node.js, PHP, and Laravel. Experienced in working with databases such as MongoDB, PostgreSQL, and MySQL.
+Seasoned software engineer with deep expertise in full-stack development, system architecture. Proficient in a wide range of modern front-end and back-end technologies, including React, Angular, Vue.js, Next.js, Redux, JavaScript, TypeScript, .NET, Node.js. Experienced in working with databases such as MongoDB, PostgreSQL, and MySQL.
 <br>
 <br>
 <br>
