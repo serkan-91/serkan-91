@@ -46,6 +46,9 @@ Driven by a passion for clean code, innovation, and mentoring fellow developers 
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
       <br>Redux
     </td> 
+    
+  </tr> 
+  <tr> 
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
       <br>Vue
@@ -62,8 +65,6 @@ Driven by a passion for clean code, innovation, and mentoring fellow developers 
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next" />
       <br>Next.js
     </td>  
-  </tr> 
-  <tr> 
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
       <br>MaterialUI
