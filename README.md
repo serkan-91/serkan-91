@@ -41,10 +41,8 @@ Driven by a passion for clean code, innovation, and mentoring fellow developers 
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
-    </td>  
-  </tr> 
-  <tr> 
-     <td align="center" width="90">
+    </td> 
+    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
       <br>Redux
     </td> 
@@ -60,6 +58,9 @@ Driven by a passion for clean code, innovation, and mentoring fellow developers 
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
     </td> 
+  </tr> 
+  <tr> 
+    
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next" />
       <br>Next.js
