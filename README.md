@@ -63,11 +63,7 @@ Driven by a passion for clean code, innovation, and mentoring fellow developers 
       <br>Next.js
     </td>  
   </tr> 
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
-      <br>D3.js
-    </td>
+  <tr> 
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
       <br>MaterialUI
@@ -95,15 +91,7 @@ Driven by a passion for clean code, innovation, and mentoring fellow developers 
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=babel" width="45" height="45" alt="babel" />
       <br>Babel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
-    </td>
+    </td> 
   </tr>
   <tr>
     <td align="center" width="90">
